@@ -1,0 +1,5 @@
+rootProject.name = 'menzCareProject'
+
+include('back-office')
+include('front-office')
+include('common')
